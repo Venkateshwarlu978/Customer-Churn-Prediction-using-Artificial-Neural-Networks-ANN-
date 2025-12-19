@@ -26,6 +26,7 @@ Simple and intuitive web-based UI
 ▶️ Run Locally
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 The Streamlit app will open automatically in your browser.
@@ -45,6 +46,7 @@ Helps identify customers who are likely to churn, enabling businesses to take da
 👤 Author
 
 Venkateshwarlu Sriramadasu
+
 🔗 GitHub: https://github.com/Venkateshwarlu978
 🔗 LinkedIn: https://linkedin.com/in/venkateshwarlu978
 
