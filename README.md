@@ -36,7 +36,9 @@ The Streamlit app will open automatically in your browser.
 📂 Core Files
 
 app.py – Streamlit application
+
 model.h5 – Trained ANN model
+
 *.pkl – Encoders and scaler used for preprocessing
 
 🧠 Outcome
@@ -48,5 +50,6 @@ Helps identify customers who are likely to churn, enabling businesses to take da
 Venkateshwarlu Sriramadasu
 
 🔗 GitHub: https://github.com/Venkateshwarlu978
+
 🔗 LinkedIn: https://linkedin.com/in/venkateshwarlu978
 
