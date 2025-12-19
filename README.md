@@ -7,9 +7,13 @@ The project demonstrates a production-ready ML pipeline, covering preprocessing,
 🔍 What This Project Shows
 
 Applied Machine Learning & Deep Learning (ANN)
+
 Full ML lifecycle: training → saving artifacts → deployment
+
 Consistent preprocessing using saved encoders and scaler
+
 Handling real-world issues like feature mismatch and environment setup
+
 Building and deploying an ML application using Streamlit
 
 🛠 Tech Stack
