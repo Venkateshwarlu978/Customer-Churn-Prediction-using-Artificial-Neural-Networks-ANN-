@@ -1,21 +1,20 @@
-📊 Customer Churn Prediction – ANN | Streamlit App
+📊 Customer Churn Prediction – ANN (Streamlit App)
 
-End-to-end Machine Learning project that predicts customer churn using an Artificial Neural Network (ANN) and deploys the model as an interactive Streamlit web application.
+An end-to-end Machine Learning project that predicts customer churn using an Artificial Neural Network (ANN) and deploys the model as an interactive Streamlit web application.
 
-Built with a production-ready ML pipeline: consistent preprocessing, saved encoders, feature alignment, and real-time inference.
+The project demonstrates a production-ready ML pipeline, from preprocessing and model training to deployment and real-time inference.
 
-🔍 What This Project Demonstrates
+🔍 What This Project Shows
 
 Applied Machine Learning & Deep Learning (ANN)
 
-End-to-end workflow: training → serialization → deployment
+Full ML lifecycle: training → saving artifacts → deployment
 
-Handling categorical encoding & feature scaling in production
+Consistent preprocessing using saved encoders and scaler
 
-Debugging real-world ML issues (feature mismatch, environments)
+Handling real-world issues like feature mismatch and environment setup
 
-Building and deploying an ML app with Streamlit
-
+Building and deploying an ML application using Streamlit
 
 🛠 Tech Stack
 
@@ -29,25 +28,30 @@ Uses saved OneHotEncoder, LabelEncoder, and StandardScaler
 
 Ensures correct feature order during inference
 
-Clean, user-friendly web interface
+Simple and intuitive web-based UI
 
 ▶️ Run Locally
 pip install -r requirements.txt
 streamlit run app.py
-Open in browser:: http://localhost:8501
 
 
-📂 Files
+The Streamlit app will open automatically in your browser.
 
-app.py – Streamlit app
+📂 Core Files
+
+app.py – Streamlit application
 
 model.h5 – Trained ANN model
 
-*.pkl – Encoders & scaler
+*.pkl – Encoders and scaler used for preprocessing
+
+🧠 Outcome
+
+Helps identify customers who are likely to churn, enabling businesses to take data-driven retention actions.
 
 👤 Author
 
 Venkateshwarlu Sriramadasu
-GitHub: https://github.com/Venkateshwarlu978
+🔗 GitHub: https://github.com/Venkateshwarlu978
 
-LinkedIn: https://linkedin.com/in/venkateshwarlu978
+🔗 LinkedIn: https://linkedin.com/in/venkateshwarlu978
